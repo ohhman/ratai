@@ -1,0 +1,66 @@
+body{
+	color: green;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
+	background: rgb(181,189,200); /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover, rgba(181,189,200,1) 0%, rgba(130,140,149,1) 36%, rgba(40,52,59,1) 100%); /* FF3.6-15 */
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: radial-gradient(ellipse at center, rgba(181,189,200,1) 0%,rgba(130,140,149,1) 36%,rgba(40,52,59,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+button{
+	margin: 150px 0px 0px 0px;
+}
+div{
+	border: 3px solid black;
+	align-content: bottom;
+}
+label{
+	text-align: center;
+}
+input{
+	text-align: center;
+}
+a{
+	color: orange;
+}
+h1{
+	text-align: center;
+	font-style: italic;
+	color:blue;
+}
+.skaic{
+	margin: 150px 0px 0px 0px;
+}
+output{
+	margin: 80px 0px 0px 0px;
+	text-align: center;
+	align-items: center;
+}
+.paskutins{
+	margin: 20px 0px 0px 0px;
+
+}
+.col-3, .col-4{
+	font-style: italic;
+	text-align: center;
+	float: left;
+}
+.padidinti{
+	padding: 12px;
+}
+#result{
+	align-content: center;
+	font-style: italic;
+	color: white;
+	padding: 150px 0px 0px 0px;
+}
+.mb-4{
+	height: 70px;
+	width: 150px;
+}
+img{
+	background-size:contain;
+	height: 15%;
+	width: 100%;
+	padding-top: 66,64%;	
+}
